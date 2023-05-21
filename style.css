@@ -31,26 +31,26 @@ textarea {
 }
 
 .past {
-  background-color: #d0ebea;
-  color: rgb(0, 0, 0);
+  background-color: #b6b6b6;
+  color: white;
 }
 
 .present {
-  background-color: #8ee1df;
-  color: rgb(0, 0, 0);
+  background-color: #90d4f9;
+  color: white;
 }
 
 .future {
-  background-color: #1cbdb7;
-  color: rgb(0, 0, 0);
+  background-color: #5ac2fb;
+  color: white;
 }
 
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #b6dcdb;
-  color: rgb(0, 0, 0);
+  background-color: #06aed5;
+  color: white;
 }
 
 .saveBtn i:hover {
